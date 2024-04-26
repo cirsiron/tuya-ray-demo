@@ -28,6 +28,7 @@ English[](README.md) | [简体中文](README_zh.md)
 
 ## :rocket: If you have questions, please visit the following link for a detailed tutorial:
 
+- [Scene module: animation optimization](https://www.tuyaos.com/viewtopic.php?p=10835&hilit=lottie#p10835)
 - [About Ray](https://developer.tuya.com/cn/ray)
 - [Use `Ray` to develop universal panel](https://developer.tuya.com/cn/miniapp-codelabs/codelabs/panelmore-guide/index.html#0)
 
